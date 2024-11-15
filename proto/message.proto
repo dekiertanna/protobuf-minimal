@@ -1,0 +1,5 @@
+package message;
+
+message Message {
+    repeated bytes id = 1;
+}
